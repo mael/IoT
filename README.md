@@ -15,7 +15,7 @@
 * [ArduinoExamples.md](/doc/ArduinoExamples.md)
 
 * [Mosquitto.md](/doc/Mosquitto.md)
-* [Influxdata.md](/doc/master/Influxdata.md)
+* [Influxdata.md](/doc/Influxdata.md)
 
 * [Grafana.md](/doc/Grafana.md)
 * Ejemplo: ESP32 - mosquitto - telegraf - chronograf/grafana
